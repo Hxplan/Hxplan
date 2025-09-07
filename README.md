@@ -57,18 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hxplan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Hxplan&theme=blue_navy&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxplan&theme=blue_navy&hide_border=false&layout=compact)
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Hxplan&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
