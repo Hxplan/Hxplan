@@ -7,7 +7,7 @@
 ### ⚡ À propos de moi
 
 - 🔭 Je travaille actuellement sur **un projet super secret (c faux)**.
-- 🌱 Je suis en train d'apprendre **sql et c#**.
+- 🌱 Je suis en train d'apprendre **sql, c#, php, c++**.
 - 👯 Je cherche à collaborer sur **des projets**.
 - ⚡ Fun fact: **Je suis en BTS SIO**
 
