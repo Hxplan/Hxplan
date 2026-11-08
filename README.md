@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/banner.svg" width="100%" alt="HOPLAN" />
-</p>
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/banner.svg" width="100%" alt="HOPLAN" /></div>
 <p align="center">
 <a href="https://github.com/Hxplan"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=%3E+Salut+!+Moi+c'est+Hoplan;%3E+Étudiant+en+BTS+SIO+%F0%9F%8E%93;%3E+8+langages+%26+toujours+en+apprentissage;%3E+Je+code+pour+progresser+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
@@ -11,7 +9,7 @@
 <a href="https://hoplan.dev"><img src="https://img.shields.io/badge/🌐_HOPLAN.DEV-0d1117?style=for-the-badge&labelColor=6e7681&color=0d1117" /></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/apropos.svg" width="100%" alt="À PROPOS" /></p>
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/apropos.svg" width="100%" alt="À PROPOS" /></div>
 <table align="center">
 <tr>
 <td valign="top">
@@ -35,7 +33,7 @@ const hoplan = {
 </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/stack.svg" width="100%" alt="STACK" /></p>
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/stack.svg" width="100%" alt="STACK" /></div>
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -52,7 +50,7 @@ const hoplan = {
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/projets.svg" width="100%" alt="PROJETS" /></p>
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/projets.svg" width="100%" alt="PROJETS" /></div>
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -68,7 +66,7 @@ const hoplan = {
 </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/stats.svg" width="100%" alt="STATS" /></p>
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/stats.svg" width="100%" alt="STATS" /></div>
 <p align="center">
 <img src="https://img.shields.io/github/followers/Hxplan?style=for-the-badge&logo=github&color=30363d&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hxplan&query=$.public_repos&label=REPOS&style=for-the-badge&color=c9d1d9&labelColor=0d1117&logo=github" />
@@ -79,4 +77,4 @@ const hoplan = {
 <img src="https://streak-stats.demolab.com?user=Hxplan&theme=tokyonight&hide_border=true&background=0d1117&ring=c9d1d9&fire=30363d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/footer.svg" width="100%" alt="" />
+<div align="center"><img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/footer.svg" width="100%" alt="" /></div>
