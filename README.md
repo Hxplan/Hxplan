@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/banner.png" width="100%" alt="HOPLAN" />
+<img src="https://raw.githubusercontent.com/Hxplan/Hxplan/main/assets/banner.svg" width="100%" alt="HOPLAN" />
 </p>
 <p align="center">
 <a href="https://github.com/Hxplan"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=%3E+Salut+!+Moi+c'est+Hoplan;%3E+Étudiant+en+BTS+SIO+%F0%9F%8E%93;%3E+8+langages+%26+toujours+en+apprentissage;%3E+Je+code+pour+progresser+%F0%9F%9A%80" alt="Typing SVG" /></a>
